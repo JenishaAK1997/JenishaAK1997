@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently learning on **MERN Stack**
 
-- 💬 Ask me about **Reactjs, Nodejs, Mongodb, Html, cs, JSs,**
+- 💬 Ask me about **Reactjs, Nodejs, Mongodb, Html, cs, JS,**
 
 - 📫 How to reach me **jenishaak1997@gmail.com**
 
